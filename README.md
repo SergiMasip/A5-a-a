@@ -9,7 +9,7 @@
 
 3| con id(h1-main) quiero el texto centrado
 
-4| con el selector de tipo BODY quiero que pongas margin: 0; y un color  de fondo que te apetezca :)
+4| con el selector de tipo BODY quiero que pongas margin: 0; y un color de fondo GREY
 
 5| con id (header h1) quiero color blanco y margin 0%, padding del 4% en ambos lados y text-align: center;
 
