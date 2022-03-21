@@ -1,5 +1,5 @@
-1|con el id(header) quiero `la posicion del backgound centrada    background-size: cover;    altura de 100vh  y la foto de fondo indicada
-2|con el id (añaxdlol)  color: rgb(255, 255, 255);
+1| con el id(header) quiero `la posicion del backgound centrada    background-size: cover;    altura de 100vh  y la foto de fondo indicada
+2| con el id (añaxdlol)  color: rgb(255, 255, 255);
     texto centrado
     margen del o%
     padding del 4% 
