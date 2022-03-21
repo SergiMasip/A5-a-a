@@ -13,7 +13,7 @@
 
 5| con id (header h1) quiero color blanco y margin 0%, padding del 4% en ambos lados y text-align: center;
 
-6| con media queris y con id (header h1) quiero un padding del 1% y tamaño de letra de 40px
+6| con id (header h1) quiero un padding del 1% y tamaño de letra de 40px
 
 7| con (id main) quiero un padding del 20% a ambos lados
 
